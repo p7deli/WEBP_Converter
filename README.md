@@ -31,6 +31,7 @@
 ```bash
 pip install PyQt5 Pillow
 
+```
 https://github.com/user-attachments/assets/8c396bd3-e2be-4d12-afe9-e051fc6e4a06
 
 
